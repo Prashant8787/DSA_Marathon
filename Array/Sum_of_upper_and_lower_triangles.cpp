@@ -5,7 +5,7 @@ using namespace std;
 int main()
 
 {
-
+//we had maked n*n size of 2d array
     int n; 
 
     cin>>n; 
